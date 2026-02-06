@@ -32,6 +32,11 @@ export function LoveLetter() {
                 If someone told me I'd be making a whole website just to ask you to be my Valentine,
                 I would have said they're crazy. But here we are, and honestly? I'd build a hundred
                 more if it made you smile.
+                <span className="block mt-2 font-medium italic">
+                  Though, looking back, I realize I was pretty dumb for not coming up with this
+                  idea sooner—it took me a minute to realize that a girl like you deserves
+                  more than just a standard text; you deserve your own corner of the internet.
+                </span>
               </p>
               <p>
                 You're not just my favourite person to talk to, laugh with, and spend time with.
