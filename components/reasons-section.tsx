@@ -7,7 +7,7 @@ const reasons = [
   { icon: Heart, text: "Your smile makes my worst days feel like the best ones", color: "text-primary" },
   { icon: Star, text: "You put up with my terrible jokes (and even laugh sometimes)", color: "text-accent" },
   { icon: Smile, text: "The way you scrunch your nose when you're thinking is adorable", color: "text-primary" },
-  { icon: Coffee, text: "Our chai dates are my favourite part of any day", color: "text-accent" },
+  { icon: Coffee, text: "Our video call dates are my favourite part of any day", color: "text-accent" },
   { icon: Music, text: "You hum songs without realizing and it's the cutest thing ever", color: "text-primary" },
   { icon: Sparkles, text: "You make even the most boring day feel like an adventure", color: "text-accent" },
 ]
